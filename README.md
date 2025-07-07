@@ -1,7 +1,10 @@
+  ![Banner Image](https://i.ibb.co/stDzrDH/20241115-070314.jpg)
 <div align="center">
-  
-  <!-- Animated banner (replace with your own GIF if you like) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Avinash+%F0%9F%91%8B;Full‑Stack+Developer+%7C+Problem+Solver;MERN+%E2%9D%A4%EF%B8%8F+Java+%E2%9D%A4%EF%B8%8F+Python+%E2%9D%A4%EF%B8%8F+PHP" alt="Typing SVG" />
+
+
+
+
+ 
 
   <!-- Views badge -->
   <br>
@@ -34,34 +37,28 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p>
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
 
-### Frameworks / Libraries
-<p>
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
- <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
- <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
- <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
- <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
- <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+## Skills
 
-### Databases & Cloud
-<p>
- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
- <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
- <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
- <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
- <img src="https://img.shields.io/badge/Railway-5B0BBF?style=for-the-badge&logo=railway&logoColor=white" />
-</p>
+<div align="center">
+  <img align="top" alt="React" width="40px" src="https://skillicons.dev/icons?i=react" />
+  <img align="top" alt="Next.js" width="40px" src="https://skillicons.dev/icons?i=nextjs" />
+  <img align="top" alt="Vite" width="40px" src="https://skillicons.dev/icons?i=vite" />
+  <img align="top" alt="Tailwind" width="40px" src="https://skillicons.dev/icons?i=tailwind" />
+  <img align="top" alt="TypeScript" width="40px" src="https://skillicons.dev/icons?i=typescript" />
+  <img align="top" alt="TypeScript" width="40px" src="https://skillicons.dev/icons?i=nodejs" />
+  <img align="top" alt="TypeScript" width="40px" src="https://skillicons.dev/icons?i=express" />
+  <img align="top" alt="TypeScript" width="40px" src="https://skillicons.dev/icons?i=mongo" />
+  <img align="top" alt="Python" width="40px" src="https://skillicons.dev/icons?i=python" />
+  <img align="top" alt="SpringBoot" width="40px" src="https://skillicons.dev/icons?i=spring" />
+  <img align="top" alt="Java" width="40px" src="https://skillicons.dev/icons?i=java" />
+  <img align="top" alt="Laravel" width="40px" src="https://skillicons.dev/icons?i=laravel" />
+  <img align="top" alt="Mysql" width="40px" src="https://skillicons.dev/icons?i=mysql" />
+  <img align="top" alt="php" width="40px" src="https://skillicons.dev/icons?i=php" />
+  <img align="top" alt="Figma" width="40px" src="https://skillicons.dev/icons?i=figma" />
+</div>
+
+
 
 ### Tools & Platforms
 <p>
@@ -71,6 +68,8 @@
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+ <img src="https://img.shields.io/badge/vercel-FF6C37?style=for-the-badge&logo=vercel&logoColor=white" />
+ <img src="https://img.shields.io/badge/netlify-FF6C37?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
 ---
