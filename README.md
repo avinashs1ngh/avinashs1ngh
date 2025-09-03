@@ -8,7 +8,7 @@
 
   <!-- Views badge -->
   <br>
-  <img src="https://komarev.com/ghpvc/?username=avinashs1ngh&style=flat-square&color=brightgreen" alt="Profile Views" />
+
 </div>
 
 ---
@@ -87,5 +87,6 @@
 ---
 
 
+<h3 align="center">✨ Thank you for visiting my profile! ✨ </h3>
+  <h3 align="center"></p><img src="https://komarev.com/ghpvc/?username=avinashs1ngh&style=flat-square&color=brightgreen" alt="Profile Views" /></h3>
 
-<h3 align="center">✨ Thank you for visiting my profile! ✨</h3>
