@@ -1,3 +1,4 @@
+
   ![Banner Image](https://i.ibb.co/stDzrDH/20241115-070314.jpg)
 <div align="center">
 
@@ -7,13 +8,14 @@
  
 
   <!-- Views badge -->
-  <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
----
-
-## 👨‍💻 About Me
+<div align="center">
+<h1> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+</h1>
+</div>
 
 - 🔭 **Currently working on**: Building cool MERN/NEXT apps and contributing to open‑source projects.
 - 🌱 **Learning**: Advanced TypeScript, System Design, and DevOps best practices.
@@ -23,7 +25,7 @@
   - [Problem Solving (Basic) – HackerRank](https://www.hackerrank.com/certificates/a04d7635de69)
   - [Python (Basic) – HackerRank](https://www.hackerrank.com/certificates/iframe/145b5d3264f2)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🔗 Connect With Me
 
@@ -33,7 +35,7 @@
   <a href="https://instagram.com/avinash_s1ngh" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech Stack
 
@@ -72,7 +74,7 @@
  <img src="https://img.shields.io/badge/netlify-FF6C37?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 GitHub Analytics
 
