@@ -17,31 +17,8 @@
 </h1>
 </div>
 
-- 🔭 **Currently working on**: Building cool MERN/NEXT apps and contributing to open‑source projects.
-- 🌱 **Learning**: Advanced TypeScript, System Design, and DevOps best practices.
-- 🎯 **2025 Goal**: Make meaningful open‑source contributions,Enhance DevOps.
-- 🧑‍🎓 **Education**: MCA, Veer Narmad South Gujarat University.
-- 🏅 **Certifications**:
-  - [Problem Solving (Basic) – HackerRank](https://www.hackerrank.com/certificates/a04d7635de69)
-  - [Python (Basic) – HackerRank](https://www.hackerrank.com/certificates/iframe/145b5d3264f2)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/avinashs1ngh" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/avinashs1ngh" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/avinash_s1ngh" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ Tech Stack
-
-
-## Skills
-
+-  **Currently working on**: Building cool MERN/NEXT apps and contributing to open‑source projects.
+-  **Learning**: Advanced TypeScript, System Design, and DevOps.
 <div align="center">
   <img align="top" alt="React" width="40px" src="https://skillicons.dev/icons?i=react" />
   <img align="top" alt="Next.js" width="40px" src="https://skillicons.dev/icons?i=nextjs" />
@@ -59,6 +36,11 @@
   <img align="top" alt="php" width="40px" src="https://skillicons.dev/icons?i=php" />
   <img align="top" alt="Figma" width="40px" src="https://skillicons.dev/icons?i=figma" />
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
 
 
 
@@ -76,7 +58,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avinashs1ngh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
